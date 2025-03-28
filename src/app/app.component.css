@@ -1,0 +1,15 @@
+nav {
+  padding: 10px;
+  background-color: #007bff;
+}
+nav a {
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
+nav a.active {
+  font-weight: bold;
+}
+router-outlet {
+  margin-top: 20px;
+}
